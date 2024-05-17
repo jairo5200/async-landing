@@ -1,0 +1,10 @@
+.pattern {
+
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    
+    background-color: #e5e5f7;
+opacity: 0.2;
+background: linear-gradient(135deg, #a045f755 25%, transparent 25%) -6px 0/ 12px 12px, linear-gradient(225deg, #a045f7 25%, transparent 25%) -6px 0/ 12px 12px, linear-gradient(315deg, #a045f755 25%, transparent 25%) 0px 0/ 12px 12px, linear-gradient(45deg, #a045f7 25%, #e5e5f7 25%) 0px 0/ 12px 12px;
+}
